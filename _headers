@@ -2,6 +2,6 @@
   X-Frame-Options: SAMEORIGIN
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options:nosniff
-  Content-Security-Policy: default-src 'self' data: https://*.storytea.top;
+  Content-Security-Policy: default-src 'self' data: https://*.storytea.top; img-src 'self' data: https://*.storytea.top;
   Referrer-Policy: same-origin
   
