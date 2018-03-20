@@ -1,5 +1,5 @@
-/index.html
-  X-Frame-Options: SAMEORIGIN
+/*
+  X-Frame-Options: ALLOW-FROM
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options:nosniff
   Content-Security-Policy: default-src 'self' data: https:;
